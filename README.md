@@ -2,9 +2,9 @@
 
 ## Table of Contents
 1. Background
-2. Full Projects
+2. [Full Projects](https://github.com/JennAckerman/Portfolio/tree/main/Full%20Projects)
     - This section holds projects that detail each section of the project journey from data scraping to client facing API.
-3. Mini Projects
+3. [Mini Projects](https://github.com/JennAckerman/Portfolio/tree/main/Mini%20Projects)
     - This section holds projects that focus on specific parts in a data science project.
     
 ## Background
