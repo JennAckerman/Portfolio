@@ -1,5 +1,5 @@
 # Bigger_Pockets_Cloud
-**Project involves:** Data Scraping, Data Cleaning, Data Visualisation
+**Project involves:** Data Scraping, Data Cleaning, Data Visualisation  
 **Python:** 3.7.6  
 **Packages:** pandas, numpy, sklearn, matplotlib, BeautifulSoup, wordcloud
 
