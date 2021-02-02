@@ -1,4 +1,4 @@
-# Data Science Job Position Organizer: Project Overview
+# Data Science Salary Estimator: Project Overview
 
 * Created a tool that estimates data science salaries (MAE ~ $12k) to help data scientists negotiate their income when they get a job
 
