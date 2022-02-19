@@ -12,12 +12,18 @@
 
 ## Code and Resources used
 **Python:** 3.7.6
+
 **Packages:** pandas, pumpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+
 **For Web Framework Requirements:** pip install -r requirements.txt
+
 **Guided DS Salaries Project:** https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+
 **Scraper Git Hub:** https://github.comarapfaik/scraping-glassdoor-selenium
+
 **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
-**Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+
+**Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 # Web Scraping
 
