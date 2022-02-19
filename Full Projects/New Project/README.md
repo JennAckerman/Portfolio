@@ -22,7 +22,8 @@ https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify/discussion/206958
 
 ### Data Description
 
-![Spotify Conceptual](https://user-images.githubusercontent.com/99898494/154557342-c14e4231-cc61-4804-a148-1da0c9dcbd72.jpeg)
+![Spotify Conceptual](https://user-images.githubusercontent.com/69395073/154806174-f21bf013-e0c8-4bf5-981b-707501ddb9f5.jpeg)
+
 
 
 The original data file that we were given consisted of 22 columns: 
