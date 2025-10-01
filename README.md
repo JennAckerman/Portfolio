@@ -10,9 +10,9 @@
 ## Background
 Hello and welcome to my portfolio!
 
-To give a little bit of background for myself; I attended and completed my Bachelors degree in Economics at the Ohio State University, with a focus in Econometrics.  During my time there, I completed classes in Statistics, Labor Economics, Game Theory, and Econometrics, where I fine tuned my passion for analytics and my skills to distinguish good from bad data.  Some of the projects I worked through were: Census data of households surrounding Universities and their changes over time, and my senior project (and also my favorite), The Agricultural Revolution and its causality upon the Industrial Revolution.
+I am Jennifer Ackerman and currently I am completing my Masters Degree in Data Analytics at Franklin University and working as a Project Coordinator for Actalent Services.  I have 4 years of work experience in the Business Analyst and Data Analyst fields, ranging from building business requirements to data mapping to BI dashboards.  
 
-Post-college, I focus my time on projects are more problem solving in nature, such as the Glassdoor Salary Estimator.
+Here I hold my projects from either my Masters degree, or personal projects that I have done outside of work.
 
 ### Contact Me
 
@@ -20,4 +20,4 @@ Post-college, I focus my time on projects are more problem solving in nature, su
 |---------|---------|
 |Email| jackerman3519@gmail.com|
 |Linkedin| [linkedin.com/in/jackerman3519](https://www.linkedin.com/in/jackerman3519/)|
-|Twitter|[@jennackerman3](https://twitter.com/JennAckerman3)|
+
