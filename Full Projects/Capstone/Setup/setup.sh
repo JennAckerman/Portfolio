@@ -9,3 +9,5 @@ virtualenv -p python3 project_name_env
 source project_name_env/bin/activate
 # install packages you will need
 pip3 install -r setup/requirements.txt
+# create custom kernel
+python3 -m ipykernel install — user — name project_name_env — display-name "Capstone Kernel"
